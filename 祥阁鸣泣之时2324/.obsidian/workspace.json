@@ -1,0 +1,184 @@
+{
+  "main": {
+    "id": "000f9f3b5da12194",
+    "type": "split",
+    "children": [
+      {
+        "id": "5ba8691cc8f93805",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8545839389b43bae",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "剧情/片段/思绪/2024-7-7.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "4a53084eeeb348cc",
+    "type": "split",
+    "children": [
+      {
+        "id": "f2e244a59d0eeeb8",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "853edaf2e7e82d69",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "byModifiedTime"
+              }
+            }
+          },
+          {
+            "id": "509034a56dac1055",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "ce55e602c9b804da",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "0ac5515c2d836ce0",
+    "type": "split",
+    "children": [
+      {
+        "id": "b7eb978127b348e2",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "34848b2762fdaaf6",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "剧情/片段/思绪/2024-7-7.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "0d1f585aeacdf24e",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "剧情/片段/思绪/2024-7-7.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "1db69f7e2658f065",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "3ee8d87a207e2e3c",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "剧情/片段/思绪/2024-7-7.md"
+              }
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false
+    }
+  },
+  "active": "8545839389b43bae",
+  "lastOpenFiles": [
+    "剧情/片段/自杀的女生 1.md",
+    "剧情/片段/半夜翻祥阁 1.md",
+    "剧情/片段/思绪/2024-7-7.md",
+    "剧情/片段/思绪",
+    "剧情/想法/大纲1.md",
+    "剧情/片段/最后一天.md",
+    "剧情/想法/大纲1.canvas",
+    "设定集/人物/李组长（暂定）.md",
+    "设定集/人物/李索言.md",
+    "剧情/片段/失恋.md",
+    "剧情/片段/死后插播①.md",
+    "设定集/人物/刘南瓜.md",
+    "设定集/双减.md",
+    "设定集/里祥阁（内阁）.md",
+    "设定集/心海.md",
+    "设定集/设定图.canvas",
+    "设定集/人物/老B.md",
+    "设定集/人物/林雨陷.md",
+    "设定集/人物/主角.md",
+    "240802.zip",
+    "设定集.zip",
+    "剧情.zip",
+    "设定集/人物/未命名",
+    "剧情/intro.md",
+    "剧情/想法",
+    "剧情/片段",
+    "剧情",
+    "设定集/人物",
+    "().md",
+    "设定集",
+    "欢迎.md"
+  ]
+}

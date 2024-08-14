@@ -1,0 +1,14 @@
+{
+	"nodes":[
+		{"id":"a5c14a18f3a458e2","type":"text","text":"# 心海","x":-137,"y":-30,"width":250,"height":70},
+		{"id":"91b4e3fbfab30316","type":"file","file":"设定集/心海.md","x":325,"y":-200,"width":400,"height":403},
+		{"id":"82ebbdf45fcb62df","type":"file","file":"设定集/里祥阁（内阁）.md","x":325,"y":300,"width":400,"height":400},
+		{"id":"960d8c0449cea39e","type":"text","text":"里祥阁（内阁）","x":-137,"y":360,"width":250,"height":60},
+		{"id":"8513bd9f2c41b42a","type":"file","file":"设定集/双减.md","x":-1000,"y":-160,"width":400,"height":400}
+	],
+	"edges":[
+		{"id":"875b48c63d1231f9","fromNode":"a5c14a18f3a458e2","fromSide":"bottom","toNode":"960d8c0449cea39e","toSide":"top"},
+		{"id":"a6a75ceb96b73ae6","fromNode":"a5c14a18f3a458e2","fromSide":"right","toNode":"91b4e3fbfab30316","toSide":"left"},
+		{"id":"51c360e16be3721a","fromNode":"960d8c0449cea39e","fromSide":"right","toNode":"82ebbdf45fcb62df","toSide":"left"}
+	]
+}
